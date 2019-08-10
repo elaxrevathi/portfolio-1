@@ -1,0 +1,52 @@
+.transparent-card {
+  width: 65%;
+  height: 55%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.home-card {
+  background-color: #002a3899;
+}
+
+.page-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: inherit;
+}
+
+.home-info-grid {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: 40% 60%;
+}
+
+.about-card {
+  background-color: #93511470;
+  width: 45%;
+  height: 45%;
+  padding: 30px;
+}
+
+.skill-card {
+  height: inherit;
+  width: inherit;
+  background-color: #002a3899;
+}
+
+.skill-card h3,
+.skill-head {
+  color: white;
+}
+
+.education-table {
+  background-color: #314f37ab;
+}
+
+.navbar-brand {
+  margin-left: 45%;
+  font-size: 25px;
+}
